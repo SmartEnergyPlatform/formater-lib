@@ -1,0 +1,1 @@
+library to format device-messages corresponding to information from the iot-device-repository for unified consumption by the sepl-platform or transmission to the device 
